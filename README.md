@@ -14,8 +14,6 @@ December Stats
 
 <img width="208" alt="december stats" src="https://user-images.githubusercontent.com/68725398/102017661-43cd7a00-3d36-11eb-813a-241a1505387d.png">
 
-- There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-
 - Key Difference 1) There are a lot more recorded station readings of the weather in June compared to December, a total of 183 readings. If this is split between a 30 day period, there are approximately 6 more reading on June for a day to day basis compared to December.
 
 - Key Difference 2) December has a much lower min reading compared to June, a full 9 point difference. This stands out compared to the other percentiles seeing that those are all within 2 to 4 points of difference between these two months.
